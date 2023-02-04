@@ -1,0 +1,5 @@
+.block {
+   background-image: url("../img/winter.jpg");
+  background-size: 100%;
+  image-rendering: optimizeQuality;
+}
